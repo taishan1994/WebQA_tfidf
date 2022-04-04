@@ -1,7 +1,6 @@
 # WeBQA
-针对于百度WebQA数据集，利用TF-IDF等模型构建的问答系统。数据集是苏剑林经过处理后的，地址：<br>
-[link](https://spaces.ac.cn/archives/4338)<br>
-代码来源：[代码](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot/tree/master/QAdemo_base1)<br>
+针对于百度WebQA数据集，利用TF-IDF等模型构建的问答系统。数据集是苏剑林经过处理后的，地址：<[link](https://spaces.ac.cn/archives/4338)
+代码来源：[代码](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot/tree/master/QAdemo_base1)
 
 # 依赖
 ```
@@ -19,7 +18,7 @@ python model2.py
 ```
 
 # 结果展示
-```shell
+```
 请输入问题(q退出): 火影忍者作者
 亲，我们给您找到的答案是： 岸本齐史
 same questions： 火影忍者的作者是谁？？,                score： 1.0
