@@ -1,7 +1,7 @@
 # WeBQA
 针对于百度WebQA数据集，利用TF-IDF等模型构建的问答系统。数据集是苏剑林经过处理后的，地址：<br>
-[](https://spaces.ac.cn/archives/4338)<br>
-代码来源：[](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot/tree/master/QAdemo_base1)<br>
+[link](https://spaces.ac.cn/archives/4338)<br>
+代码来源：[代码](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot/tree/master/QAdemo_base1)<br>
 
 # 依赖
 ```
