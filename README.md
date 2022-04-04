@@ -9,16 +9,16 @@ jieba
 ```
 
 # 运行
-```python
+```shell
 python model1.py 
 ```
 或者
-```python
+```shell
 python model2.py
 ```
 
 # 结果展示
-```
+```txt
 请输入问题(q退出): 火影忍者作者
 亲，我们给您找到的答案是： 岸本齐史
 same questions： 火影忍者的作者是谁？？,                score： 1.0
